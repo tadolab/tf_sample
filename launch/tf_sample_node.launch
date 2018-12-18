@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="tf_sample" type="tf_sample_node" name="tf_sample" output="screen" />
+</launch>
